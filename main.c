@@ -60,4 +60,3 @@ float media(int valori[], int dimensione){
     risultato = risultato / dimensione;
     return risultato;
 }
-
